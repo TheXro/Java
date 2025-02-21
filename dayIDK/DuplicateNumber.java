@@ -1,3 +1,4 @@
+package dayIDK;
 //leetcode 287
 public class DuplicateNumber {
     public static void main(String[] args) {
